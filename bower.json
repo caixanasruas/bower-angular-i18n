@@ -7,5 +7,5 @@
     "components",
     "precommit.sh"
   ],
-  "main": "angular-locale_en.js"
+  "main": "angular-locale_pt-br.js"
 }
